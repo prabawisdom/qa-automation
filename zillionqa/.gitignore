@@ -1,0 +1,9 @@
+.*
+!.gitignore
+hs_err_pid*
+*.class
+target/classes
+target/test-classes
+test-output
+/target
+*.iml

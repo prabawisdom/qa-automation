@@ -1,0 +1,27 @@
+.*
+!.gitignore
+hs_err_pid*
+*.class
+
+test-output/
+zillionqa/test-output
+zillionqa/test-output/emailable-report.html
+zillionqa/test-output/junitreports/TEST-TestNGClass.xml
+zillionqa/test-output/emailable-report.html
+zillionqa/test-output/junitreports/TEST-TestNGClass.xml
+zillionqa/test-output/emailable-report.html
+zillionqa/test-output/junitreports/TEST-TestNGClass.xml
+zillionqa/test-output/emailable-report.html
+zillionqa/test-output/junitreports/TEST-TestNGClass.xml
+*.html
+zillionqa/src/main/resources/drivers/chromedriver.exe
+zillionqa/test-output/junitreports/TEST-TestNGClass.xml
+zillionqa/test-output/junitreports/TEST-TestNGClass.xml
+zillionqa/test-output/emailable-report.html
+zillionqa/test-output/junitreports/TEST-TestNGClass.xml
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
+*.zip
+

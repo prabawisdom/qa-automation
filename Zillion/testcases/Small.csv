@@ -1,0 +1,5 @@
+Module Name,Test Case Name
+/Real Appeal/Coach/Scheduler,RA_Coach_Scheduler_PostponePreponeInsufficientClass
+/Real Appeal/Coach/Scheduler,RA_Coach_Scheduler_ScheduledClasses
+/Real Appeal/Coach/Scheduler,RA_Coach_Scheduler_PASwitchesClassForAMemberUnderAnApprovedClassWhoseMaxSizeIsHit
+/Real Appeal/Member/Enrollment/Enrollment,RA_Member_Enrollment_MemberSecurityAnswerFieldBecomesEmptyWhenTheMemberChangesTheQuestionAgain
